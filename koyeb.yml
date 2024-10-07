@@ -1,0 +1,8 @@
+services:
+  bot:
+    image: <your-docker-image>
+    ports:
+      - "8443:8443"
+    environment:
+      - TOKEN=<your-telegram-token>
+      - OWNER_ID=<your-telegram-owner-id>
