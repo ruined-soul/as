@@ -4,5 +4,5 @@ services:
     ports:
       - "8443:8443"
     environment:
-      - TOKEN=<your-telegram-token>
-      - OWNER_ID=<your-telegram-owner-id>
+      - TOKEN=7410637757:AAGfu2Em_j31Qieqop9uzSum89P9SLM1J9k
+      - OWNER_ID=1159381624
